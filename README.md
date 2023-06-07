@@ -24,6 +24,6 @@ This is an example of how to list things you need to use the software and how to
 ### Usage
 
 ##### Expo makes it easy to run the app in both ios device and android device for testing using the Expo App but you can also run the app in the PC using iOS simulator or Android SDK. Follow one of the below guides to get started:
-* Run the application on your device using [Expo Go](https://docs.expo.dev/get-started/expo-go/) (Recommended)
-* Run the app in [iOS Simulator](https://docs.expo.dev/workflow/ios-simulator/)/[Android Studio Emulator
+* Run the application on your device using [Expo Go](https://docs.expo.dev/get-started/expo-go/) (Easiest)
+* Run the app in [iOS Simulator](https://docs.expo.dev/workflow/ios-simulator/) / [Android Studio Emulator
 ](https://docs.expo.dev/workflow/android-studio-emulator/)
